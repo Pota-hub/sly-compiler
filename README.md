@@ -1,3 +1,3 @@
 #Compiler made with sly
-## V1.0
+##V1.0
 lexer finish
